@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday Siddiqui ❤️</title>
+</head>
+
+<body>
+
+    <!-- Loading Screen -->
+    <div id="loading-screen">
+
+        <h1>🎁</h1>
+
+        <h2>Preparing Something Special...</h2>
+
+        <p>
+            Every heartbeat...
+            <br>
+            Every memory...
+            <br>
+            Every smile...
+            <br><br>
+            has been wrapped with love
+            just for you. ❤️
+        </p>
+
+        <div class="loader"></div>
+
+        <p>Please wait a few seconds...</p>
+
+        <h3>Happy Birthday, Siddiqui ❤️</h3>
+
+        <small>Made with endless love by Zoha 🌹</small>
+
+    </div>
+
+</body>
+</html><!-- ================= PAGE 2 - ROMANTIC INTRO ================= -->
+
+<section id="intro-page">
+
+    <div class="intro-content">
+
+        <h4>🌹 To the Most Precious Person in My Life 🌹</h4>
+
+        <h1>❤️ Happy Birthday, Siddiqui ❤️</h1>
+
+        <p class="intro-text">
+            Today isn't just your birthday...
+            <br><br>
+
+            It's the day the person who changed my world was born.
+
+            <br><br>
+
+            You came into my life and turned ordinary moments into my favorite memories,
+            filled my heart with happiness,
+            and gave me countless reasons to smile.
+
+            <br><br>
+
+            This little surprise isn't just a website...
+
+            It's a small piece of my heart,
+            made with love, gratitude,
+            and endless prayers for you.
+
+            <br><br>
+
+            I hope this day brings you as much happiness
+            as you bring into my life every single day.
+
+            <br><br>
+
+            So...
+
+            Take a deep breath...
+
+            Put on your brightest smile...
+
+            and click the button below.
+
+            <br><br>
+
+            Because a little journey
+            full of love,
+            emotions,
+            and beautiful surprises
+            is waiting just for you.
+
+            ❤️
+        </p>
+
+        <button id="startJourney">
+            ❤️ Open My Heart ❤️
+        </button>
+
+    </div>
+
+</section><!-- ================= PAGE 3 - LOVE LETTER ================= -->
+
+<section id="love-letter">
+
+    <div class="letter">
+
+        <h2>🌹 Dear Special Person 🌹</h2>
+
+        <h1>❤️ Siddiqui Ji ❤️</h1>
+
+        <p>
+            <strong>Happy Birthday to my Love. ❤️</strong><br>
+            <strong>Happy Birthday to the Love of My Life. ❤️</strong>
+        </p>
+
+        <p>
+            Today is the most special day because it's the day
+            the most wonderful person came into this world. 🌍✨
+        </p>
+
+        <p>
+            You are not just my partner...
+            You are my love,
+            my safe place,
+            my biggest blessing,
+            and the reason behind
+        </p>
+
+        <h3 style="text-align:center;">
+            🥹❤️ My Happiest Smiles ❤️🥹
+        </h3>
+
+        <p>
+            Every moment I spend with you becomes a beautiful memory
+            that I will cherish forever.
+            Thank you for loving me unconditionally,
+            supporting me through every challenge,
+            and making even the ordinary days feel magical. ❤️
+        </p>
+
+        <p>
+            Your kindness,
+            your strength,
+            and your beautiful heart
+            inspire me every single day.
+            You make my life brighter simply by being in it,
+            and I feel incredibly lucky
+            to have you by my side.
+        </p>
+
+        <p>
+            There are countless reasons why you are so special to me,
+            but the biggest one is the way
+            you make me feel loved,
+            understood,
+            valued,
+            and completely at peace.
+        </p>
+
+        <p>
+            No matter what life brings,
+            knowing that you're there
+            gives me strength,
+            comfort,
+            and hope.
+        </p>
+
+        <p>
+            On your birthday,
+            my biggest prayer is that Allah blesses you
+            with endless happiness,
+            good health,
+            success,
+            peace,
+            and a life filled with beautiful moments.
+            Ameen. 🤲❤️
+        </p>
+
+        <p>
+            I hope every dream you carry in your heart
+            becomes your reality,
+            and every smile on your face
+            lasts forever.
+        </p>
+
+        <p>
+            Thank you for being you...
+            Thank you for loving me...
+            Thank you for choosing me...
+            and thank you
+            for making my life
+            so much more beautiful.
+        </p>
+
+        <p>
+            I may not always be perfect,
+            but one thing I'll never stop doing
+            is praying for your happiness
+            and loving you with all my heart. ❤️
+        </p>
+
+        <h2 style="text-align:center; color:#ff2e63;">
+            Happy Birthday Once Again,
+            My Love. 🎂❤️
+        </h2>
+
+        <h3 style="text-align:center;">
+            Forever Yours,
+        </h3>
+
+        <h2 style="text-align:center;">
+            ❤️ Zoha ❤️
+        </h2>
+
+        <br><br>
+
+        <button id="continueJourney">
+            Continue Our Story ❤️
+        </button>
+
+    </div>
+
+</section><!-- ================= PAGE 4 - A FEW THINGS I WANT YOU TO ALWAYS REMEMBER ================= -->
+
+<section id="always-remember">
+
+    <div class="remember-box">
+
+        <h2>✨ A Few Things I Want You To Always Remember ✨</h2>
+
+        <p class="intro">
+            Before you continue...
+            there are a few things I hope you never forget. ❤️
+        </p>
+
+        <div class="reason">
+            ❤️ You are deeply loved.
+        </div>
+
+        <div class="reason">
+            🌹 You are appreciated more than words can ever express.
+        </div>
+
+        <div class="reason">
+            🤍 You are enough, just the way you are.
+        </div>
+
+        <div class="reason">
+            ☀️ Your smile has the power to brighten my darkest days.
+        </div>
+
+        <div class="reason">
+            🫶 You are my peace, my comfort, and my safest place.
+        </div>
+
+        <div class="reason">
+            ✨ You make ordinary moments feel magical.
+        </div>
+
+        <div class="reason">
+            🌍 No matter where life takes us,
+            you'll always have a special place in my heart.
+        </div>
+
+        <div class="reason">
+            🤲 Every day, I silently pray for your happiness,
+            your success, your health,
+            and for every dream in your heart to come true.
+        </div>
+
+        <div class="reason">
+            💖 Thank you for being the beautiful soul
+            that walked into my life
+            and changed it forever.
+        </div>
+
+        <div class="reason">
+            ♾️ If I had the chance to choose again...
+            I would still choose you,
+            over and over again,
+            in every lifetime.
+        </div>
+
+        <p class="ending">
+            And remember one thing...
+        </p>
+
+        <h2 style="text-align:center; color:#ff4d6d;">
+            I will always be cheering for you,
+            praying for you,
+            and loving you. ❤️
+        </h2>
+
+        <br>
+
+        <button id="nextPage">
+            🎂 Continue to Your Birthday Surprise 🎂
+        </button>
+
+    </div>
+
+</section><!-- ================= PAGE 5 - MAKE A WISH ================= -->
+
+<section id="birthday-page">
+
+    <div class="birthday-container">
+
+        <h4>🎉 It's Time To Celebrate 🎉</h4>
+
+        <h1>🎂 Happy Birthday, Siddiqui ❤️</h1>
+
+        <p class="birthday-text">
+            Today is all about celebrating the wonderful person you are.
+            I hope your heart is filled with happiness,
+            your smile never fades,
+            and this new chapter of your life brings you
+            endless peace, success, laughter, and beautiful memories.
+        </p>
+
+        <div class="cake">
+            <pre>
+               🕯️   🕯️   🕯️
+                 🎂🎂🎂
+              🎂🎂🎂🎂🎂
+            🎂🎂🎂🎂🎂🎂🎂
+            ─────────────
+            </pre>
+        </div>
+
+        <h2>✨ Close Your Eyes... ✨</h2>
+
+        <p>
+            Make a wish from the bottom of your heart.
+            <br><br>
+            I sincerely pray that every beautiful wish you make today
+            comes true and Allah blesses you with everything
+            your heart desires. 🤲❤️
+        </p>
+
+        <button id="wishBtn">
+            🌟 I Made My Wish 🌟
+        </button>
+
+        <p class="small-note">
+            And secretly...
+            I made a wish for us too. ❤️
+        </p>
+
+    </div>
+
+</section><!-- ================= PAGE 6 - FINAL SURPRISE ================= -->
+
+<section id="final-surprise">
+
+    <div class="surprise-container">
+
+        <h4>🎁 One Last Surprise 🎁</h4>
+
+        <h1>❤️ For You, Siddiqui ❤️</h1>
+
+        <p>
+            If you've made it this far...
+            thank you for taking this little journey with me.
+        </p>
+
+        <br>
+
+        <p>
+            I didn't make this website because I had to...
+            I made it because you are someone truly special to me.
+        </p>
+
+        <br>
+
+        <p>
+            I know this isn't the biggest gift in the world,
+            but every single word,
+            every little detail,
+            and every page
+            was made with nothing but love.
+        </p>
+
+        <br>
+
+        <h2>🌹 My Promise To You 🌹</h2>
+
+        <p>
+            I promise to always pray for your happiness,
+            celebrate your victories,
+            stand beside you in difficult times,
+            and remind you how amazing you are whenever you forget.
+        </p>
+
+        <br>
+
+        <p>
+            No matter what tomorrow brings,
+            I hope you always remember that
+            you are deeply loved,
+            genuinely appreciated,
+            and incredibly important to me.
+        </p>
+
+        <br>
+
+        <blockquote>
+            "And if I had to choose again...
+            in every lifetime,
+            I would still choose you." ❤️
+        </blockquote>
+
+        <br>
+
+        <h2>🎂 Happy Birthday Once Again 🎂</h2>
+
+        <h1>❤️ My Love ❤️</h1>
+
+        <p>
+            May Allah bless you with endless happiness,
+            success,
+            good health,
+            peace,
+            and a beautiful future.
+            Ameen. 🤲❤️
+        </p>
+
+        <br><br>
+
+        <h2>
+            Forever & Always ❤️
+        </h2>
+
+        <h3>
+            Yours,
+        </h3>
+
+        <h1>
+            Zoha 🌹
+        </h1>
+
+        <br>
+
+        <button id="restartJourney">
+            ❤️ Read It Again ❤️
+        </button>
+
+    </div>
+
+</section><!-- ================= PAGE 7 - FOREVER & ALWAYS ================= -->
+
+<section id="forever-page">
+
+    <div class="forever-content">
+
+        <h3>✨ Before You Leave... ✨</h3>
+
+        <h1>❤️ One Last Thing ❤️</h1>
+
+        <p>
+            If you ever have a bad day...
+        </p>
+
+        <p>
+            If life ever feels difficult...
+        </p>
+
+        <p>
+            If you ever doubt yourself...
+        </p>
+
+        <p>
+            Come back to this little website
+            and remember that somewhere in this world,
+            there is someone who genuinely believes in you,
+            silently prays for you,
+            and wishes nothing but the best for you.
+        </p>
+
+        <br>
+
+        <p>
+            You deserve happiness.
+            <br>
+            You deserve peace.
+            <br>
+            You deserve endless love.
+        </p>
+
+        <br>
+
+        <h2>
+            Never forget...
+        </h2>
+
+        <h1 style="color:#ff4d88;">
+            You will always have
+            a very special place
+            in my heart. ❤️
+        </h1>
+
+        <br>
+
+        <p>
+            Distance may change,
+            time may pass,
+            seasons may come and go...
+        </p>
+
+        <p>
+            But my prayers for you
+            will never stop.
+        </p>
+
+        <br>
+
+        <blockquote>
+            "May Allah protect your smile,
+            guide your every step,
+            fulfill every dream in your heart,
+            and bless you with a beautiful life.
+            Ameen." 🤲❤️
+        </blockquote>
+
+        <br><br>
+
+        <h1>
+            Happy Birthday,
+            Siddiqui. 🎂❤️
+        </h1>
+
+        <h2>
+            Thank You For Existing. 🌍✨
+        </h2>
+
+        <br>
+
+        <h3>
+            With Endless Love,
+        </h3>
+
+        <h1>
+            ❤️ Zoha ❤️
+        </h1>
+
+        <br><br>
+
+        <p style="font-size:22px;">
+            Forever & Always ♾️❤️
+        </p>
+
+    </div>
+
+</section><!-- ================= FOOTER ================= -->
+
+<footer id="footer">
+
+    <div class="footer-content">
+
+        <h2>❤️ Happy Birthday, Siddiqui ❤️</h2>
+
+        <p>
+            This little website was created with love,
+            prayers, beautiful memories,
+            and countless heartfelt wishes...
+            just for you.
+        </p>
+
+        <br>
+
+        <p>
+            Thank you for being one of the most beautiful
+            parts of my life.
+        </p>
+
+        <br>
+
+        <p>
+            I hope every time you visit this website,
+            it reminds you how deeply loved,
+            appreciated,
+            and special you truly are.
+        </p>
+
+        <br>
+
+        <h3>
+            🌹 May Allah Always Protect You 🌹
+        </h3>
+
+        <p>
+            May He bless you with happiness,
+            good health,
+            success,
+            peace,
+            and a lifetime full of beautiful moments.
+            Ameen. 🤲❤️
+        </p>
+
+        <br>
+
+        <h2>
+            "You will always be my favorite hello
+            and my hardest goodbye." ❤️
+        </h2>
+
+        <br>
+
+        <h3>Made With Endless Love ❤️</h3>
+
+        <h2>— Zoha 🌹</h2>
+
+        <br>
+
+        <p class="copyright">
+            © 2026 • A Birthday Surprise  Made Especially For Siddiqui ❤️
+        </p>
+
+    </div>
+
+</footer>
